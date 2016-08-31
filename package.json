@@ -12,7 +12,6 @@
   "license": "MIT",
   "files": [
     "assemblefile.js",
-    "index.js",
     "lib"
   ],
   "main": "assemblefile.js",
