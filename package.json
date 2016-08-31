@@ -10,11 +10,8 @@
     "url": "https://github.com/generate/slack/issues"
   },
   "license": "MIT",
-  "files": [
-    "index.js",
-    "LICENSE"
-  ],
-  "main": "index.js",
+  "files": [],
+  "main": "assemblefile.js",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -22,7 +19,20 @@
     "test": "mocha"
   },
   "keywords": [
-    "slack"
+    "assemble",
+    "generate",
+    "generate-slack",
+    "gh",
+    "gh-pages",
+    "github",
+    "github-pages",
+    "invite",
+    "node-base",
+    "pages",
+    "slack",
+    "slack-invite",
+    "slack-users",
+    "users"
   ],
   "devDependencies": {
     "base-questions": "^0.7.4",
