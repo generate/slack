@@ -1,0 +1,12 @@
+{
+  "invite": {
+    "name": "What would you like to name the invite webtask?",
+    "team": "What's the slack team name you'd like to use?",
+    "token": "What's the slack authentication token you'd like to use?"
+  },
+  "users": {
+    "name": "What would you like to name the slack users badge webtask?",
+    "team": "What's the slack team name you'd like to use?",
+    "token": "What's the slack authentication token you'd like to use?"
+  }
+}
