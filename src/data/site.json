@@ -31,7 +31,7 @@
     }
   ],
   "services": {
-    "invite": "https://webtask.it.auth0.com/api/run/wt-brian_woodward-gmail_com-0/generate-slack-invite?webtask_no_cache=1",
-    "users": "https://webtask.it.auth0.com/api/run/wt-brian_woodward-gmail_com-0/generate-slack-users?webtask_no_cache=1"
+    "invite": "https://wt-brian_woodward-gmail_com-0.sandbox.auth0-extend.com/generate-slack-invite?webtask_no_cache=1",
+    "users": "https://wt-brian_woodward-gmail_com-0.sandbox.auth0-extend.com/generate-slack-users?webtask_no_cache=1"
   }
 }
